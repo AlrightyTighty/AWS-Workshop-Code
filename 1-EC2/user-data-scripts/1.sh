@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo dnf update -y
 sudo dnf install git -y
 git clone https://github.com/AlrightyTighty/AWS-Workshop-Code.git
